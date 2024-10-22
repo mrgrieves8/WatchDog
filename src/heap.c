@@ -1,9 +1,4 @@
-/*
-	Code By: Amit
-	Review By: Yarden
-	Date: 1.7.24
-	Project: Min Heap
-*/
+
 #include <stdlib.h> /* malloc(), free() */
 #include <string.h> /* memcpy() */
 #include <assert.h> /* assert() */

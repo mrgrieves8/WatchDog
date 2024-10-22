@@ -1,9 +1,3 @@
-/*
-Code by: Amit
-Review by: Or
-Date: 6.5.24
-
-*/
 
 #include <stdlib.h> /* size_t malloc() realloc() free() */
 #include <assert.h> /* assert() */
