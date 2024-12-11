@@ -34,7 +34,7 @@ The WatchDog project provides a mechanism to ensure that a critical client proce
 ## Usage
 ### Integrate WatchDog into Your Client Application
 1. **Include the WatchDog Header**
-```#include \"watch_dog_private.h\"```
+```#include "watch_dog_private.h"```
 
 2. **Initialize the WatchDog in Your `main` Function**
 ```c
